@@ -1,4 +1,4 @@
-----Gen 6----
+### Gen 6 Pokemon ordered by internally used asset ID
 
 Furfrou		701  
 Phantump	702  
