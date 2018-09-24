@@ -1,0 +1,2 @@
+# PokemonInfoDumps
+A collection of useful information and findings across the series
