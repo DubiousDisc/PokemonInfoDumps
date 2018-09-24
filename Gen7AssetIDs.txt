@@ -1,4 +1,4 @@
-### Gen 7 Pokemon ordered by internally used asset ID
+Gen 7 Pokemon ordered by internally used asset ID
 
 Mareanie	801  
 Toxapex		802  
